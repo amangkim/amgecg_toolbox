@@ -7,17 +7,15 @@
 </br></br>
 
 ![-](http://ieeexplore.ieee.org/ielx7/6287639/8600701/8756039/graphical_abstract/access-gagraphic-2927079.jpg)
-</br></br>
+
+
 
 ### Youtube Demo: https://youtu.be/texyM7Gzz3c
-</br></br>
 
 ## Revision History
 ```
 2019.07.05: The paper has been published
 2019.07.31: Upload the amgecg Toolbox in the Github
 ```
-
-
 
 #### Code created by *Amang Kim* [v0.5 || 2019/07/31]
