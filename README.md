@@ -16,6 +16,7 @@
 ```
 2019.07.05: The paper has been published.
 2019.07.21: Upload the amgecg Toolbox in the Github (v.0.5).
+2023.05.30: Upload the missing files (v.0.6)
 ```
 
-#### Code created by *Amang Kim* [v0.5 || 2019/07/21]
+#### Code created by *Amang Kim* [v0.6 || 2023/05/25]
